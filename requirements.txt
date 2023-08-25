@@ -6,3 +6,5 @@ python-dotenv==1.0.0
 whisper==1.1.1
 openai-whisper
 ffmpeg-python==0.2.0
+Numpy==1.21.6
+Numba==0.55.1
