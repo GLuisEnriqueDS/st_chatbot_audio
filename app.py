@@ -7,8 +7,6 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from langchain.llms import HuggingFaceHub
 import whisper
-import translators as ts
-import pandas as pd
 import time
 import os
 
