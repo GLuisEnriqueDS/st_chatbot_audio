@@ -3,4 +3,6 @@ langchain>=0.0.249
 pandas>=2.0.2
 python-dotenv==1.0.0
 openai-whisper
-
+Numpy==1.21.6
+Numba==0.55.1
+ffmpeg-python==0.2.0
